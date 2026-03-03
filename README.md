@@ -21,3 +21,5 @@ Schema Mapping: I focused on translating data types and constraints to ensure th
 Integrity Constraints: During the migration, I prioritized Referential Integrity. This ensures that every order migrated still points to a valid customer and a valid book, preventing "orphaned records" that could crash the application. This task proved that a well-designed schema is scalable and portable across different SQL platforms
 
 #OUTPUT
+
+<img width="817" height="500" alt="Image" src="https://github.com/user-attachments/assets/2510c509-1acf-435a-acb1-3c07dfcf7da5" />
